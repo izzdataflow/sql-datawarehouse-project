@@ -1,4 +1,4 @@
-# 🏗️ SQL Data Warehouse Project (Learning)
+# 🏗️ SQL Data Warehouse Project 
 
 A hands-on data warehouse built with **SQL Server** using the **Medallion Architecture** (Bronze → Silver → Gold), consolidating data from ERP and CRM source systems for analytical reporting.
 
